@@ -1,0 +1,34 @@
+{
+  "name": "Dumb Panda",
+  "website": "https://dumbpanda-token.github.io",
+  "description": "Dumb Panda (DMP) is a decentralized lending token on Binance Smart Chain, built by experienced blockchain contributors. Community-driven liquidity, fixed-price mechanics, and P2P lending without KYC.",
+  "explorer": "https://bscscan.com/token/0xA6c916065c49672247908d1148506220Fd28c065",
+  "type": "BEP20",
+  "symbol": "DMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA6c916065c49672247908d1148506220Fd28c065",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://x.com/AliR2Crypto"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/dumb_panda_token"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dumb-panda-221b01227"
+    }
+  ],
+  "links": {
+    "pair": "0x66f9986Ab66186740531781c1ba01229bEc1a1FD",
+    "source_code": "https://github.com/DumbPandaToken",
+    "dex": "https://www.dextools.io/app/en/bnb/pair-explorer/0x66f9986ab66186740531781c1ba01229bec1a1fd",
+    "gecko": "https://www.geckoterminal.com/bsc/pools/0x66f9986ab66186740531781c1ba01229bec1a1fd"
+  },
+  "email": "contact@dumbpanda-token.github.io",
+  "whitepaper": "https://dumbpanda-token.github.io/whitepaper.pdf",
+  "dashboard": "https://dumbpanda-token.github.io/manage"
+}
